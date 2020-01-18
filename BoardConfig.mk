@@ -43,8 +43,8 @@ BOARD_MKBOOTIMG_ARGS := \
 
 BOARD_KERNEL_IMAGE_NAME := zImage-dtb
 TARGET_KERNEL_SOURCE := $(KERNEL_COMMON)
-#KERNEL_TOOLCHAIN_PREFIX := $./prebuilts/gcc/linux-x86/arm/gcc-linaro-6.3.1-2017.05-x86_64_arm-eabi/bin/arm-eabi-
-
+#KERNEL_TOOLCHAIN := $(BUILD_TOP)/prebuilts/gcc/linux-x86/arm/gcc-linaro-6.3.1-2017.05-x86_64_arm-eabi/bin
+#KERNEL_TOOLCHAIN_PREFIX := arm-eabi-
 TARGET_KERNEL_CONFIG := mustang_defconfig
 BOARD_KERNEL_CMDLINE := bootopt=64S3,32N2,64N2
 BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
