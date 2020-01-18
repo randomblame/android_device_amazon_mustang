@@ -44,7 +44,6 @@ lib/hw/perfboost.default.so
 lib/hw/perfboost.mt8163.so
 lib/hw/thermal.mt8163.so
 lib/libasp.so
-lib/libaudiospdif.so
 lib/libaudiostream.so
 lib/libwpa_client.so
 lib/soundfx/libaudiofx.so
@@ -114,7 +113,6 @@ vendor/lib/hw/keystore.mt8163.so
 vendor/lib/hw/lights.mt8163.so
 vendor/lib/hw/memtrack.mt8163.so
 vendor/lib/hw/sensors.mt8163.so
-vendor/lib/mediadrm/libmockdrmcryptoplugin.so
 vendor/lib/mediadrm/libplayreadydrmplugin.so
 vendor/lib/mediadrm/libwvdrmengine.so
 vendor/lib/modules/bt_drv.ko
