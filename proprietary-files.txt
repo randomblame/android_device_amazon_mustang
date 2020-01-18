@@ -40,7 +40,6 @@ etc/wifi/wpa_supplicant.conf
 lib/hw/amzn_dha.mt8163.so
 lib/hw/amzn_drmprov.mt8163.so
 lib/hw/audio.voice_dsp.default.so
-lib/hw/camera.default.so
 lib/hw/perfboost.default.so
 lib/hw/perfboost.mt8163.so
 lib/hw/thermal.mt8163.so
