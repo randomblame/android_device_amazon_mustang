@@ -17,4 +17,3 @@ Rear Camera  | 2 MP
 
 ![Amazon Fire 2019](https://ebookfriendly.com/wp-content/uploads/2019/05/Amazon-Fire-7-2019-four-color-options-840x730.jpg "Amazon Fire 2019")
 
-This branch is for building LineageOS 14.1
