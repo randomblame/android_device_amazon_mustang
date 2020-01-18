@@ -24,8 +24,6 @@ etc/.tp/thermal.off.conf
 etc/.tp/thermal.policy.conf
 etc/audio_device.xml
 etc/audio_policy.conf
-etc/bluetooth/bt_did.conf
-etc/bluetooth/bt_stack.conf
 etc/firmware/gt9xx_fw.bin
 etc/firmware/SMicBin_rt5518_mode11.dat
 etc/firmware/SMicBin_rt5518_mode12.dat
