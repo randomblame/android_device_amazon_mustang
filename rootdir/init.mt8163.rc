@@ -947,7 +947,7 @@ service bugreport /system/bin/dumpstate -d -p -B \
 service nvram_daemon /vendor/bin/nvram_daemon
     class main
     user root
-    group system audio net_bt_stack
+    group system audio
     oneshot
 
 service aal /vendor/bin/aal

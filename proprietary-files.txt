@@ -23,7 +23,6 @@ etc/.tp/thermal.conf
 etc/.tp/thermal.off.conf
 etc/.tp/thermal.policy.conf
 etc/audio_device.xml
-etc/audio_policy.conf
 etc/firmware/gt9xx_fw.bin
 etc/firmware/SMicBin_rt5518_mode11.dat
 etc/firmware/SMicBin_rt5518_mode12.dat
@@ -94,9 +93,7 @@ vendor/etc/.tp/thermal.conf
 vendor/etc/.tp/thermal.off.conf
 vendor/etc/.tp/.ht120.mtc
 vendor/etc/audio_device.xml
-vendor/etc/audio_effects.conf
 vendor/etc/audio_em.xml
-vendor/etc/audio_policy.conf
 vendor/firmware/ROMv2_lm_patch_1_0_hdr.bin
 vendor/firmware/ROMv2_lm_patch_1_1_hdr.bin
 vendor/firmware/WIFI_RAM_CODE_8163
