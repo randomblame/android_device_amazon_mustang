@@ -182,7 +182,6 @@ vendor/lib/libccci_util.so
 vendor/lib/libcustom_nvram.so
 vendor/lib/libcvsd_mtk.so
 vendor/lib/libdirect-coredump.so
--vendor/lib/libdpframework.so
 vendor/lib/libfeatureio.so
 vendor/lib/libfeatureiodrv.so
 vendor/lib/libfile_op.so
