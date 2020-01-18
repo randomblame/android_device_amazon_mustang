@@ -37,7 +37,6 @@ etc/init/timeupdate.rc
 etc/wifi/p2p_supplicant_overlay.conf
 etc/wifi/wpa_supplicant_overlay.conf
 etc/wifi/wpa_supplicant.conf
-lib/egl/libGLES_android.so
 lib/hw/amzn_dha.mt8163.so
 lib/hw/amzn_drmprov.mt8163.so
 lib/hw/audio.voice_dsp.default.so
