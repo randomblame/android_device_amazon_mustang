@@ -1,2 +1,0 @@
-add_lunch_combo lineage_mustang-userdebug
-add_lunch_combo lineage_mustang-eng
